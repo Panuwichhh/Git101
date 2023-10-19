@@ -56,7 +56,7 @@ body
     margin: 0;
     display: flex;
 
-}
+} 
 
 .navbar lu{
     flex-direction: column;
